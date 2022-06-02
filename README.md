@@ -1,1 +1,2 @@
 # odin-restaurant-page
+This is a original mock restaurant page using HTML, CSS, and Javascript. Utilized npm and webpack for devtools and file bundling. [Live Demo](https://akhantz250.github.io/odin-restaurant-page/)
