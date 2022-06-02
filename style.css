@@ -210,15 +210,15 @@ footer a{
     margin-right: auto;
 }
 
-.info-row h2{
+.info-col h2{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     color: black;
-    margin-bottom: 40px;
     font-weight: 800;
+    display: inline-block;
 }
 
-.info-row span{
+.info-col span{
     display: inline-block;
     white-space: nowrap;
     font-weight: 400;
@@ -229,4 +229,11 @@ footer a{
     gap: 100px;
     justify-content: center;
     padding: 80px 0;
+}
+
+.headrow{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 2rem;
 }
